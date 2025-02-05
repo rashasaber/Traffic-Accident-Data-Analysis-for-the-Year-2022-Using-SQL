@@ -1,0 +1,1 @@
+# Traffic-Accident-Data-Analysis-for-the-Year-2022-Using-SQL
